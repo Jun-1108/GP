@@ -5,8 +5,7 @@
 ## 원본 design, cs
 ![원본 design](https://github.com/Jun-1108/GP/assets/48702150/81a57f55-f6f3-438e-8f8f-efc03ad569b8)
 ![원본cs](https://github.com/Jun-1108/GP/assets/48702150/88644c71-99c0-4c5e-b5bc-e2a5023166a8)
-
-
+<br>
 ## 수정 후
 ![개선 1](https://github.com/Jun-1108/GP/assets/48702150/a763050f-1f68-4c9f-96cb-6c43f1c24291)
 예약을 하기 위해서는 예약하는 사람의 정보가 필요하기 때문에 로그인이 필수라고 생각해서 로그인 창을 만들었습니다.
